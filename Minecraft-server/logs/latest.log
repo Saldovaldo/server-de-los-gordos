@@ -1,0 +1,63 @@
+[19:13:35] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:13:37] [Worker-Main-1/ERROR]: Couldn't load tag ddo:ray_permeable as it is missing following references: minecraft:grass (from file/deep-dark-enhanced-v1-2.zip)
+[19:13:37] [Worker-Main-1/ERROR]: Couldn't load tag adr_boss:pseudo_air as it is missing following references: minecraft:grass (from file/Adrenaline_Bosses_1.20.2-Datapack.zip)
+[19:13:38] [Worker-Main-3/WARN]: Invalid path in datapack: wasd.sword:recipes/NBT Recipes.zip, ignoring
+[19:13:38] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:wasd.lib:rng/random_block - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
+[19:13:38] [Worker-Main-2/ERROR]: Couldn't parse element loot_tables:kaisyn:village/village_jungle_house - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:grass
+[19:13:40] [ServerMain/WARN]: Found loot table element validation problem in {loot_tables:wasd.lib:rng/random_drop}.pools[0].entries[1]: Unknown loot table called wasd.lib:rng/random_block
+[19:13:41] [ServerMain/INFO]: Loaded 7 recipes
+[19:13:41] [ServerMain/ERROR]: Parsing error loading custom advancement minecraft:adventure/pixel_perfect: Invalid color name: purple; Invalid color name: purple
+[19:13:41] [ServerMain/ERROR]: Parsing error loading custom advancement minecraft:adventure/sharpshooter: Invalid color name: purple; Invalid color name: purple
+[19:13:41] [ServerMain/ERROR]: Parsing error loading custom advancement minecraft:adventure/cavalry_charge: Invalid color name: purple; Invalid color name: purple
+[19:13:41] [ServerMain/ERROR]: Parsing error loading custom advancement minecraft:adventure/a_full_arsenal: Invalid color name: purple; Invalid color name: purple
+[19:13:41] [ServerMain/INFO]: Loaded 1829 advancements
+[19:13:41] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: adr_boss:pseudo_air, ddo:ray_permeable, wasd.lib:nonsolid
+[19:13:41] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[19:13:41] [Server thread/INFO]: Loading properties
+[19:13:41] [Server thread/INFO]: Default game type: SURVIVAL
+[19:13:41] [Server thread/INFO]: Generating keypair
+[19:13:42] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:13:42] [Server thread/INFO]: Using epoll channel type
+[19:13:42] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:13:42] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:13:42] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:13:42] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:13:42] [Server thread/INFO]: Preparing level "world"
+[19:13:44] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:13:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[19:13:49] [Worker-Main-2/INFO]: Preparing spawn area: 49%
+[19:13:50] [Server thread/INFO]: Time elapsed: 5295 ms
+[19:13:50] [Server thread/INFO]: Done (7.928s)! For help, type "help"
+[19:15:38] [Server thread/INFO]: PapaDeDanteLandi[/[0:0:0:0:0:0:0:1%0]:40080] logged in with entity id 31 at (400.1549137580086, 62.11076428890229, -1405.7150195153772)
+[19:15:38] [Server thread/INFO]: PapaDeDanteLandi joined the game
+[19:15:42] [Server thread/ERROR]: Display entityNot a string
+[19:16:17] [Server thread/INFO]: Dentsa_017[/[0:0:0:0:0:0:0:1%0]:54362] logged in with entity id 311 at (399.1364184374967, 62.11076428890229, -1415.997451082687)
+[19:16:17] [Server thread/INFO]: Dentsa_017 joined the game
+[19:16:19] [Server thread/ERROR]: Display entityNot a string
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:40] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:41] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:41] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:41] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:41] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:41] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
+[19:18:41] [Worker-Main-4/WARN]: Empty or non-existent pool: lvillage:mossed
